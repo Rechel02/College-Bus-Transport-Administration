@@ -1,4 +1,3 @@
 # Bus-Management
-website on Bus 
-check out readme pdf in the files
-
+Website on Bus Transport Management. 
+For further details check out the readme pdf in the files.
